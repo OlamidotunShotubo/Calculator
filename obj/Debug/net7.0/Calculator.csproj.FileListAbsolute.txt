@@ -1,0 +1,15 @@
+C:\Users\Pilot\OneDrive\Documents\Coding\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\Users\Pilot\OneDrive\Documents\Coding\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Users\Pilot\OneDrive\Documents\Coding\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Users\Pilot\OneDrive\Documents\Coding\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Users\Pilot\OneDrive\Documents\Coding\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Users\Pilot\OneDrive\Documents\Coding\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\Pilot\OneDrive\Documents\Coding\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pilot\OneDrive\Documents\Coding\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Pilot\OneDrive\Documents\Coding\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Users\Pilot\OneDrive\Documents\Coding\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Pilot\OneDrive\Documents\Coding\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Users\Pilot\OneDrive\Documents\Coding\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Users\Pilot\OneDrive\Documents\Coding\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Users\Pilot\OneDrive\Documents\Coding\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Users\Pilot\OneDrive\Documents\Coding\Calculator\obj\Debug\net7.0\ref\Calculator.dll
